@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Algoritma Ödev3/1.0.0": {
+        "runtime": {
+          "Algoritma Ödev3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Algoritma Ödev3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
